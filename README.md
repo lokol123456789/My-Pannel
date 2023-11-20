@@ -1,1 +1,1 @@
-# My-Pannel
+# mi panel
